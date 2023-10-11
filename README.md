@@ -1,4 +1,4 @@
-Overview
+#Overview#
 
 This project is a small E-Commerce interface built by a group. The data is stored in a MySQL database on a Zeus Linux Server. The system utilizes C API to connect to the MySQL server. The main functionalities of the system include Admin operations, product search, managing shopping cart, and generating a purchase statement.
 
